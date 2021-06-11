@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 name: xfce4-dock-plugin
-
+url: https://davekeogh.github.io
+baseurl: "/xfce4-dock-plugin"
